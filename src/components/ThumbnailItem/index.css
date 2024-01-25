@@ -1,0 +1,16 @@
+/* Write your code here. */
+.Item-style {
+  margin-right: 10px;
+  opacity: 60%;
+}
+.Item-style-dark {
+  opacity: 100%;
+}
+.lists {
+  list-style: none;
+}
+button {
+  border: none;
+  padding: 0px;
+  background-color: transparent;
+}
